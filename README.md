@@ -1,5 +1,5 @@
 ![logo](https://github.com/MuhammadHuzaifa-stu/MuhammadHuzaifa-stu/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B!+I'm+Muhammad+Huzaifa)](https://git.io/typing-svg)
 <h3 align="center">A passionate Electrical Engineer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
