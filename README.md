@@ -1,4 +1,4 @@
-![logo](https://github.com/MuhammadHuzaifa-stu/MuhammadHuzaifa-stu/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
+![logo](https://github.com/MuhammadHuzaifa-stu/MuhammadHuzaifa-stu/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B!+I'm+Muhammad+Huzaifa)](https://git.io/typing-svg)
 <h3 align="center">A passionate Electrical Engineer from Pakistan</h3>
 
