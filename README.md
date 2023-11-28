@@ -1,12 +1,12 @@
 ![logo](https://github.com/MuhammadHuzaifa-stu/MuhammadHuzaifa-stu/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B!+I'm+Muhammad+Huzaifa)](https://git.io/typing-svg)
-<h3 align="center">A passionate Electrical Engineer from Pakistan</h3>
+<h3 align="center">A passionate Electrical Engineer from UET Lahore, Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhuzaifa-stu&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhuzaifa-stu" /> </p>
 
-- 🌱 I’m currently learning **Computer Architecture, Machine Learning, Control Systems, Digital Signal Processing**
+- 🌱 I’m currently learning **Computer Architecture, Machine Learning, Control Systems, Digital Signal Processing, VLSI, Deep Learning**
 
 - 📫 How to reach me **huzaifatariq407@gmail.com**
 
